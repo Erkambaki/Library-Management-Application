@@ -1,0 +1,1 @@
+case class BookExtended(title:String, author:String, publisher:String, subject:String, publishingDate:String)
